@@ -1,0 +1,14 @@
+﻿# Folder hasil build, cache, dan simulasi Vivado
+*.sim/
+*.runs/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+.Xil/
+
+# File log sementara Vivado
+*.jou
+*.log
+*.str
+*.dmp
