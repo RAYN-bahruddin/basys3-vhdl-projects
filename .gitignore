@@ -12,3 +12,4 @@
 *.log
 *.str
 *.dmp
+dfx_runtime.txt
